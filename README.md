@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Zack Andrés — Reverse Engineering, Generative AI and Automation. Zack Managements." />
+  <img src="./hero.svg" width="100%" alt="Zack Andrés — Reverse Engineering, AI and Antidetect Cloud Phones. Zack Managements." />
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@
 ## From software internals to working systems
 
 I'm **Andrés Sánchez**, also known as **Zack Andrés**. My core work combines **reverse engineering, C++ and Assembly** with **generative AI, agents and automation**.
+
+I also specialize in **antidetect engineering for Android cloud phones**: device fingerprint analysis, device profiles and automation through ADB, AutoJS and cloud-phone APIs, including work with GeeLark and VMOS.
 
 I build custom software around real operational needs: from agents that read a device screen and decide what to do next, to enterprise integrations, RPA workflows and dashboards. My background in **sales, operations and technical leadership** helps me connect engineering decisions with the people and businesses using those systems.
 
@@ -49,9 +51,9 @@ I build custom software around real operational needs: from agents that read a d
 
 ## Three connected areas of work
 
-| Software internals | AI & generative systems | Automation & integrations |
+| Software internals & devices | AI & generative systems | Automation & integrations |
 | --- | --- | --- |
-| Reverse engineering, C++, Assembly, Android tooling, ADB and device APIs. | AI agents, RAG assistants, transcription, image and video generation pipelines. | GoHighLevel, n8n, UiPath, APIs, event-driven systems and enterprise data flows. |
+| Reverse engineering, C++, Assembly, antidetect cloud phones, device fingerprints, ADB and device APIs. | AI agents, RAG assistants, transcription, image and video generation pipelines. | GoHighLevel, n8n, UiPath, APIs, event-driven systems and enterprise data flows. |
 
 ## Engineering with a business perspective
 
@@ -66,7 +68,7 @@ My commercial experience includes **sales closing at Omnidental**, **sales respo
 
 **2020–present**
 
-Custom software, AI agents, workflow automation, dashboards and integrations. My work includes an agent that interprets device screens and chooses its next action, demonstrated across three cloud phones. I combine development with team coordination and delivery support.
+Custom software, AI agents, workflow automation, dashboards and integrations, with a specialization in antidetect Android cloud-phone environments and device fingerprint analysis. My work includes an agent that interprets device screens and chooses its next action, demonstrated across three cloud phones. I combine development with team coordination and delivery support.
 
 ### Towa Agency · IT Consultant, assigned to Payless LATAM
 
@@ -144,7 +146,8 @@ Tools used across different projects; the stack varies with the problem and enga
 | Languages | C++, Assembly, C, Python, JavaScript, TypeScript, Java, Go, C#, SQL, Bash, Kotlin, Elixir |
 | AI & ML | OpenAI, Claude, LangChain, RAG, Qdrant, PyTorch, torchvision, TensorFlow, Hugging Face, Whisper, WAN 2.2, Stable Diffusion |
 | Automation & CRM | GoHighLevel, n8n, UiPath, Make, Zapier, Selenium, Playwright, Puppeteer, AutoHotkey |
-| Android & cloud devices | ADB, AutoJS, GeeLark, VMOS, Jetpack Compose, MVVM, MVI |
+| Antidetect & Android cloud phones | Device fingerprint analysis, device profiles, ADB, AutoJS, cloud-phone APIs, GeeLark, VMOS |
+| Android development | Kotlin, Java, Jetpack Compose, MVVM, MVI |
 | Frontend & design | React, Next.js, Angular, Vue, HTML/CSS, Tailwind CSS, Figma, WordPress, Webflow |
 | Backend & APIs | Node.js, Express, NestJS, FastAPI, Django, Spring Boot, .NET, REST, GraphQL, WebSockets |
 | Data platforms | PostgreSQL, MySQL, MongoDB, Redis, SQLite, Supabase, Oracle, Oracle APEX, PL/SQL, Snowflake, Databricks |
@@ -160,5 +163,6 @@ Tools used across different projects; the stack varies with the problem and enga
 <p align="center">
   <strong>Have a system to build or a technical problem to solve?</strong><br />
   <a href="mailto:zack@zackmanagements.com">zack@zackmanagements.com</a> · <a href="https://zackmanagements.com">zackmanagements.com</a><br />
+  <a href="https://www.linkedin.com/in/andres-sanchez-26749643b/">LinkedIn</a><br />
   <sub>Andrés Sánchez · Zack Andrés · Zack Managements</sub>
 </p>
