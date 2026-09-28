@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Zack Andrés — Reverse Engineering, Generative AI and Automation. Zack Managements." />
+  <img src="./hero.svg" width="100%" alt="Zack Andrés — Reverse Engineering, Generative AI and Automation. Zack Managements." />
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zackmanagements.com"><img src="assets/website.svg" height="38" alt="Explore my website" /></a>
+  <a href="https://zackmanagements.com"><img src="./website.svg" height="38" alt="Explore my website" /></a>
   &nbsp;
-  <a href="mailto:zack@zackmanagements.com"><img src="assets/contact.svg" height="38" alt="Get in touch by email" /></a>
+  <a href="mailto:zack@zackmanagements.com"><img src="./contact.svg" height="38" alt="Get in touch by email" /></a>
 </p>
 
 ## From software internals to working systems
@@ -20,12 +20,12 @@ I'm **Andrés Sánchez**, also known as **Zack Andrés**. My core work combines 
 I build custom software around real operational needs: from agents that read a device screen and decide what to do next, to enterprise integrations, RPA workflows and dashboards. My background in **sales, operations and technical leadership** helps me connect engineering decisions with the people and businesses using those systems.
 
 <p>
-  <img src="assets/cpp.svg" height="28" alt="C++" />
-  <img src="assets/assembly.svg" height="28" alt="Assembly" />
-  <img src="assets/python.svg" height="28" alt="Python" />
-  <img src="assets/ai-agents.svg" height="28" alt="AI agents" />
-  <img src="assets/n8n.svg" height="28" alt="n8n" />
-  <img src="assets/fastapi.svg" height="28" alt="FastAPI" />
+  <img src="./cpp.svg" height="28" alt="C++" />
+  <img src="./assembly.svg" height="28" alt="Assembly" />
+  <img src="./python.svg" height="28" alt="Python" />
+  <img src="./ai-agents.svg" height="28" alt="AI agents" />
+  <img src="./n8n.svg" height="28" alt="n8n" />
+  <img src="./fastapi.svg" height="28" alt="FastAPI" />
 </p>
 
 ## Selected work · explore the code
@@ -33,13 +33,13 @@ I build custom software around real operational needs: from agents that read a d
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zactya/telegram-ai-chat-assistant"><img src="assets/telegram-project.svg" width="100%" alt="Telegram AI Chat Assistant — RAG and agents" /></a>
+      <a href="https://github.com/Zactya/telegram-ai-chat-assistant"><img src="./telegram-project.svg" width="100%" alt="Telegram AI Chat Assistant — RAG and agents" /></a>
       <p>A document-based Telegram assistant with vector retrieval, an n8n workflow, document ingestion and an Express setup dashboard.</p>
       <p><code>n8n</code> <code>OpenAI</code> <code>Qdrant</code> <code>Node.js</code></p>
       <p><a href="https://github.com/Zactya/telegram-ai-chat-assistant"><strong>Explore the repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zactya/ml-inference-service"><img src="assets/inference-project.svg" width="100%" alt="ML Image Inference Service — machine learning" /></a>
+      <a href="https://github.com/Zactya/ml-inference-service"><img src="./inference-project.svg" width="100%" alt="ML Image Inference Service — machine learning" /></a>
       <p>An image classification API using pretrained ResNet18, with preprocessing, input validation, API tests, a web interface and Docker packaging.</p>
       <p><code>FastAPI</code> <code>PyTorch</code> <code>ResNet18</code> <code>Docker</code></p>
       <p><a href="https://github.com/Zactya/ml-inference-service"><strong>Explore the repository →</strong></a></p>
