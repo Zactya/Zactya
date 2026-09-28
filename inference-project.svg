@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-labelledby="title desc">
+  <title id="title">ML Image Inference Service</title>
+  <desc id="desc">Project 02: machine learning. Original diagram of an image feeding a classifier and its output.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111c2a"/>
+      <stop offset="1" stop-color="#090f19"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="230" rx="22" fill="#090f19"/>
+  <rect x=".5" y=".5" width="599" height="229" rx="21.5" fill="none" stroke="#2b3949"/>
+  <path d="M34 1 H155" stroke="#ffb066" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" fill="#ffb066" font-size="11" font-weight="600" letter-spacing="1.9">02 / MACHINE LEARNING</text>
+    <text x="30" y="101" fill="#f3f5ef" font-size="34" font-weight="700" letter-spacing="-.65">ML Image</text>
+    <text x="30" y="144" fill="#f3f5ef" font-size="34" font-weight="700" letter-spacing="-.65">Inference Service</text>
+    <text x="32" y="196" fill="#92a3b8" font-size="12" font-weight="400" letter-spacing=".3">FastAPI · PyTorch · Docker</text>
+  </g>
+  <g fill="none" stroke="#473626" stroke-width="1">
+    <circle cx="468" cy="116" r="73"/>
+    <circle cx="468" cy="116" r="92" stroke-dasharray="2 9" stroke-opacity=".7"/>
+  </g>
+  <rect x="376" y="94" width="48" height="47" rx="9" fill="url(#surface)" stroke="#80623e"/>
+  <circle cx="410" cy="107" r="4" fill="#ffb066"/>
+  <path d="M384 131 396 116 405 126 412 121 418 131Z" fill="#ffb066" fill-opacity=".16" stroke="#ffb066" stroke-width="1.3" stroke-linejoin="round"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M425 117 H448" stroke="#ffb066" stroke-opacity=".7"/>
+    <path d="M459 97 483 115 459 137 M459 97 V137 M459 97 483 93 M459 137 483 139 M459 137 483 115" stroke="#ffb066" stroke-opacity=".45"/>
+    <path d="M483 93 507 115 483 139 M483 115 H507" stroke="#ffb066" stroke-opacity=".65"/>
+    <path d="M508 115 H530" stroke="#73e3cf" stroke-opacity=".75"/>
+  </g>
+  <g fill="#19202a" stroke="#ffb066" stroke-width="1.5">
+    <circle cx="459" cy="97" r="5"/>
+    <circle cx="459" cy="137" r="5"/>
+    <circle cx="483" cy="93" r="4"/>
+    <circle cx="483" cy="139" r="4"/>
+  </g>
+  <circle cx="483" cy="115" r="6" fill="#ffb066"/>
+  <circle cx="507" cy="115" r="5" fill="#73e3cf"/>
+  <rect x="531" y="95" width="31" height="42" rx="7" fill="#132322" stroke="#416459"/>
+  <path d="M539 107 H554 M539 115 H550 M539 123 H545" fill="none" stroke="#73e3cf" stroke-width="2" stroke-linecap="round"/>
+  <path d="M478 175 H523" stroke="#493b2e"/>
+  <circle cx="533" cy="175" r="2" fill="#ffb066"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-labelledby="title desc">
+  <title id="title">Telegram AI Chat Assistant</title>
+  <desc id="desc">Project 01: RAG and agents. Original diagram of documents connected to a retrieval and agent network.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111c2a"/>
+      <stop offset="1" stop-color="#090f19"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="230" rx="22" fill="#090f19"/>
+  <rect x=".5" y=".5" width="599" height="229" rx="21.5" fill="none" stroke="#2b3949"/>
+  <path d="M34 1 H155" stroke="#73e3cf" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" fill="#73e3cf" font-size="11" font-weight="600" letter-spacing="1.9">01 / RAG &amp; AGENTS</text>
+    <text x="30" y="101" fill="#f3f5ef" font-size="34" font-weight="700" letter-spacing="-.65">Telegram AI</text>
+    <text x="30" y="144" fill="#f3f5ef" font-size="34" font-weight="700" letter-spacing="-.65">Chat Assistant</text>
+    <text x="32" y="196" fill="#92a3b8" font-size="12" font-weight="400" letter-spacing=".3">n8n · OpenAI · Qdrant</text>
+  </g>
+  <g fill="none" stroke="#284337" stroke-width="1">
+    <circle cx="466" cy="116" r="73"/>
+    <circle cx="466" cy="116" r="92" stroke-dasharray="2 9" stroke-opacity=".7"/>
+  </g>
+  <g fill="none" stroke="#73e3cf" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M412 99 H435 Q444 99 444 109 V116 H468" stroke-opacity=".65"/>
+    <path d="M412 145 H432 Q445 145 445 132 V124 H468" stroke-opacity=".45"/>
+    <path d="M482 121 516 95 M482 121 525 139 M516 95 525 139" stroke-opacity=".6"/>
+    <path d="M516 95 548 114 525 139" stroke-opacity=".35"/>
+  </g>
+  <rect x="377" y="73" width="39" height="52" rx="7" fill="url(#surface)" stroke="#496154"/>
+  <path d="M387 87 H405 M387 95 H400 M387 103 H403" fill="none" stroke="#73e3cf" stroke-width="1.7" stroke-linecap="round"/>
+  <rect x="380" y="131" width="32" height="37" rx="7" fill="url(#surface)" stroke="#365248"/>
+  <path d="M389 143 H402 M389 151 H398" fill="none" stroke="#73e3cf" stroke-opacity=".75" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="482" cy="121" r="19" fill="#142b28" stroke="#73e3cf"/>
+  <circle cx="482" cy="121" r="5" fill="#73e3cf"/>
+  <circle cx="516" cy="95" r="7" fill="#73e3cf"/>
+  <circle cx="525" cy="139" r="7" fill="#ffb066"/>
+  <circle cx="548" cy="114" r="4" fill="#172a29" stroke="#73e3cf"/>
+  <path d="M478 175 H523" stroke="#294136"/>
+  <circle cx="533" cy="175" r="2" fill="#73e3cf"/>
+</svg>

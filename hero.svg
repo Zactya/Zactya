@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Zack Andrés — Reverse Engineering, Generative AI and Automation</title>
+  <desc id="desc">A dark, amber and mint profile banner with an original geometric diagram connecting software systems and AI.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121d2c"/>
+      <stop offset="1" stop-color="#090f19"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb066"/>
+      <stop offset="1" stop-color="#73e3cf"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#73e3cf" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#73e3cf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 H 0 V 34" fill="none" stroke="#f3f5ef" stroke-opacity=".028"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" rx="22" fill="#090f19"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="21.5" fill="none" stroke="#263244"/>
+  <path d="M23 1 H1177" stroke="#73e3cf" stroke-opacity=".35"/>
+  <rect x="690" y="1" width="486" height="418" fill="url(#grid)"/>
+  <circle cx="938" cy="208" r="211" fill="url(#halo)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="54" y="49" width="5" height="14" rx="2.5" fill="#73e3cf"/>
+    <text x="72" y="61" fill="#a6b2c4" font-size="12" font-weight="600" letter-spacing="2.4">ZACTYA / ZACK MANAGEMENTS</text>
+    <text x="52" y="159" fill="#f3f5ef" font-size="67" font-weight="700" letter-spacing="-.9">ZACK ANDRÉS</text>
+    <text x="56" y="219" fill="#ffb066" font-size="30" font-weight="600" letter-spacing="-.2">Reverse Engineering</text>
+    <text x="56" y="262" fill="#dce4e9" font-size="29" font-weight="400" letter-spacing="-.3">Generative AI · Automation</text>
+    <path d="M56 321 H643" stroke="#2a3647"/>
+    <circle cx="61" cy="355" r="3" fill="#73e3cf"/>
+    <text x="76" y="359" fill="#8f9eb2" font-size="11" font-weight="600" letter-spacing="2.15">SOFTWARE · AGENTS · INTEGRATIONS</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M798 93 H851 Q865 93 865 107 V157" stroke="#35445a"/>
+    <path d="M752 279 H790 Q804 279 804 265 V219 H850" stroke="#ffb066" stroke-opacity=".5"/>
+    <path d="M963 180 H1034 Q1052 180 1052 162 V117" stroke="#73e3cf" stroke-opacity=".5"/>
+    <path d="M970 255 H1011 Q1026 255 1026 270 V312 H1092" stroke="#73e3cf" stroke-opacity=".32"/>
+    <path d="M912 284 V326 Q912 342 896 342 H859" stroke="#35445a"/>
+    <circle cx="912" cy="217" r="91" stroke="#28394b"/>
+    <circle cx="912" cy="217" r="113" stroke="#28394b" stroke-dasharray="2 10"/>
+    <path d="M823 194 A91 91 0 0 1 870 136" stroke="#ffb066" stroke-width="2"/>
+    <path d="M1000 240 A91 91 0 0 1 954 297" stroke="#73e3cf" stroke-width="2"/>
+  </g>
+
+  <rect x="746" y="61" width="74" height="64" rx="14" fill="url(#panel)" stroke="#3b4551"/>
+  <path d="M765 81 H794 M765 91 H783 M765 101 H800" fill="none" stroke="#ffb066" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="716" y="250" width="66" height="58" rx="14" fill="url(#panel)" stroke="#344154"/>
+  <path d="M734 269 H762 M734 279 H753 M734 289 H759" fill="none" stroke="#ffb066" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M912 160 961 188 V246 L912 274 863 246 V188Z" fill="#101c2a" stroke="url(#signal)" stroke-width="1.4"/>
+  <g fill="none" stroke="#73998f" stroke-width="1.25">
+    <path d="M890 193 934 200 912 237 890 193 887 226 934 200 940 232 912 237"/>
+    <path d="M890 193 940 232 M887 226 940 232" stroke-opacity=".55"/>
+  </g>
+  <g fill="#73e3cf">
+    <circle cx="890" cy="193" r="5"/>
+    <circle cx="934" cy="200" r="5"/>
+    <circle cx="887" cy="226" r="4"/>
+    <circle cx="940" cy="232" r="4"/>
+  </g>
+  <circle cx="912" cy="237" r="6" fill="#ffb066"/>
+
+  <rect x="1024" y="78" width="57" height="57" rx="15" fill="url(#panel)" stroke="#345148"/>
+  <path d="M1042 105 1051 96 1061 105 1052 115Z" fill="none" stroke="#73e3cf" stroke-width="2"/>
+  <circle cx="1098" cy="312" r="7" fill="#122322" stroke="#73e3cf"/>
+  <circle cx="853" cy="342" r="5" fill="#17232e" stroke="#64748b"/>
+  <circle cx="865" cy="143" r="3" fill="#ffb066"/>
+  <circle cx="1026" cy="292" r="3" fill="#73e3cf"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#73859b" font-size="10" font-weight="600" letter-spacing="1.7">
+    <text x="740" y="147">SYSTEMS</text>
+    <text x="1024" y="155">SIGNALS</text>
+  </g>
+</svg>
